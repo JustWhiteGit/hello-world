@@ -7,3 +7,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/JustWhiteGit/hello-world.git
 git push -u origin master
 
+This demo does not support the software hence i am confused
